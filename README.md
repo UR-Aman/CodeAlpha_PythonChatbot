@@ -1,4 +1,4 @@
-# CodeAlpha_PythonChatbot 🤖
+# CodeAlpha_BasicChatbot 🤖
 
 This project is submitted as part of the **Python Programming Internship at CodeAlpha**.  
 It is a simple, rule-based chatbot with a **graphical user interface (GUI)** built using Python's Tkinter library.
@@ -7,7 +7,7 @@ It is a simple, rule-based chatbot with a **graphical user interface (GUI)** bui
 
 ## 💬 Description
 
-**CodeAlphaBot** is an offline chatbot that replies to specific user inputs like:
+**ChatBot** is an offline chatbot that replies to specific user inputs like:
 
 - "hello"
 - "how are you"
